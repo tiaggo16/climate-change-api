@@ -2,4 +2,4 @@
 
 API that retrieves current climate change news from English language newspapers.
 
-Available for consumption at:
+Available for consumption at
